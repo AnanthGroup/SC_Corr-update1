@@ -1,9 +1,10 @@
-# SC-Corr-Code-Package
+# SC-Corr-Code-Package-Update1
 The SC-Corr Code Package is a FORTRAN-based program that contains various ways of computing the real-time correlation function in the semiclassical initial value representation.
 
 
 https://doi.org/10.5281/zenodo.3945531
-
+This is the most recent version of the code. It contains some bug fixes. Two methods for calculating population correlation function has been introduced here. 
+This code has been updated on June 21, 2023 by Sujata Nandi and Shreyas V. Malpathak.
 
 Created by Matthew S. Church.
 
